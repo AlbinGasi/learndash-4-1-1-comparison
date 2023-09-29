@@ -1,0 +1,18 @@
+.sfwd-question #content_ifr, .sfwd-question #wp-content-editor-container .wp-editor-area{
+    height: 100px!important;
+}
+#sfwd-quiz-questions h2:before, .ld-question-overview-widget-item:before{
+    background-color: #03cea4 !important;
+}
+.admin_page_learndash_lms_overview .notice.notice-warning,
+.learndash-screen .notice.notice-warning,
+.admin_page_learndash_lms_settings .notice.notice-warning,
+.teach-beacon-lms_page_learndash-lms-reports .notice.notice-warning,
+.post-type-ld-notification .notice.notice-warning,
+.admin_page_learndash_lms_overview .update-nag.notice.notice-warning.inline,
+.learndash-screen .update-nag.notice.notice-warning.inline,
+.admin_page_learndash_lms_settings .update-nag.notice.notice-warning.inline,
+.teach-beacon-lms_page_learndash-lms-reports .update-nag.notice.notice-warning.inline,
+.post-type-ld-notification .update-nag.notice.notice-warning.inline{
+    display:none !important;
+}
